@@ -1,0 +1,180 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thegulfcoastchallenge.com" resolutions="1x" timestamp="1514269938075">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_b-master.css" crc="3853966662" ref="privacy-policy:contact:events:travel:tickets:about:tradition:tailgate"/>
+    <file name="privacy-policy.css" crc="360212197" ref="privacy-policy"/>
+    <file name="iefonts_privacy-policy.css" crc="411573205" ref="privacy-policy"/>
+    <file name="contact.css" crc="277743627" ref="contact"/>
+    <file name="iefonts_contact.css" crc="3782430146" ref="contact"/>
+    <file name="events.css" crc="3841065222" ref="events"/>
+    <file name="iefonts_events.css" crc="43356980" ref="events"/>
+    <file name="travel.css" crc="515363497" ref="travel"/>
+    <file name="iefonts_travel.css" crc="57278132" ref="travel"/>
+    <file name="tickets.css" crc="3889780367" ref="tickets"/>
+    <file name="iefonts_tickets.css" crc="4118191750" ref="tickets"/>
+    <file name="about.css" crc="28486194" ref="about"/>
+    <file name="iefonts_about.css" crc="303285275" ref="about"/>
+    <file name="tradition.css" crc="4242583989" ref="tradition"/>
+    <file name="iefonts_tradition.css" crc="399961100" ref="tradition"/>
+    <file name="tailgate.css" crc="107565455" ref="tailgate"/>
+    <file name="iefonts_tailgate.css" crc="3836797321" ref="tailgate"/>
+    <file name="index.css" crc="427943553" ref="index"/>
+    <file name="iefonts_index.css" crc="3780812622" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:tailgate:events:travel:contact:tickets:tradition:privacy-policy:about"/>
+    <file name="museutils.js" crc="3803043152" ref="index:tailgate:events:travel:contact:tickets:tradition:privacy-policy:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:tailgate:events:travel:contact:tickets:tradition:privacy-policy:about"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:tailgate:events:travel:contact:tickets:tradition:privacy-policy:about"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:tailgate:events:travel:contact:tickets:tradition:privacy-policy:about"/>
+    <file name="require.js" crc="4157109226" ref="index:tailgate:events:travel:contact:tickets:tradition:privacy-policy:about"/>
+    <file name="webpro.js" crc="242022427" ref="contact"/>
+    <file name="form_check.php" crc="147359589" ref="contact"/>
+    <file name="form_throttle.php" crc="93986428" ref="contact"/>
+    <file name="form_process.php" crc="3851993751" ref="contact"/>
+    <file name="form-u1803.php" crc="3888940895" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="pics.jpg" crc="236149161" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="graybar.jpg" crc="3819940305" ref="index:tickets">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tickets" alt=""/>
+    </file>
+    <file name="bg-top01.jpg" crc="322017025" ref="index:tailgate"/>
+    <file name="social-icons1.png" crc="4263382044" seo="true" ref="index:tailgate:events:travel:contact:tickets:tradition:privacy-policy:about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="tailgate" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="tickets" alt=""/>
+      <caption webpage="tradition" alt=""/>
+    </file>
+    <file name="social-icons2.png" crc="61958031" seo="true" ref="index:tailgate:events:travel:contact:tickets:tradition:privacy-policy:about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="tailgate" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="tickets" alt=""/>
+      <caption webpage="tradition" alt=""/>
+    </file>
+    <file name="social-icons3.png" crc="3787972366" seo="true" ref="index:tailgate:events:travel:contact:tickets:tradition:privacy-policy:about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="tailgate" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="tickets" alt=""/>
+      <caption webpage="tradition" alt=""/>
+    </file>
+    <file name="blackmenubar01.jpg" crc="4293378882" ref="index:tailgate"/>
+    <file name="silverbar01.jpg" crc="4023492126" ref="index:tailgate"/>
+    <file name="goldbar01.jpg" crc="4150932171" ref="index:tailgate:events:travel:contact:tickets"/>
+    <file name="namesholder.png" crc="180200215" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="base.png" crc="410552383" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="toplogo.png" crc="3821460007" seo="true" ref="index:tailgate:events:travel:contact:tickets:tradition:privacy-policy:about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="tailgate" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="tickets" alt=""/>
+      <caption webpage="tradition" alt=""/>
+    </file>
+    <file name="bg-purple.jpg" crc="4121323206" ref="index:tailgate:events:travel:contact"/>
+    <file name="star.png" crc="3832505594" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="september-u391.png" crc="4003073087" ref="index"/>
+    <file name="southern-u401.png" crc="3900663461" ref="index"/>
+    <file name="alabama-u413.png" crc="249104099" ref="index"/>
+    <file name="ball-u437.png" crc="525256336" ref="index"/>
+    <file name="redmeta.jpg" crc="4228413172" ref="index:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="metaldoors.png" crc="4250275627" ref="index:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="bg-purple2.jpg" crc="4042753874" ref="index"/>
+    <file name="submit.jpg" crc="4059133371" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="toplogo316x253.png" crc="4262765550" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-blackbottom.jpg" crc="56472394" ref="index"/>
+    <file name="sponsor2.jpg" crc="155157298" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sponsor1.jpg" crc="393856019" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sponsor3.jpg" crc="98994821" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sponsor4.jpg" crc="3904206565" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sponsor5.jpg" crc="4026778200" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sponsor6.jpg" crc="353047276" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bghexagonbottom.jpg" crc="109203231" seo="true" ref="index:tailgate:events:travel:contact:tickets:tradition:privacy-policy:about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="tailgate" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="tickets" alt=""/>
+      <caption webpage="tradition" alt=""/>
+    </file>
+    <file name="bg-purplebottom.jpg" crc="3905265245" ref="index:tailgate"/>
+    <file name="pics3.jpg" crc="517885357" ref="tailgate">
+      <caption webpage="tailgate" alt=""/>
+    </file>
+    <file name="toplogo332x266.png" crc="301785284" seo="true" ref="tailgate">
+      <caption webpage="tailgate" alt=""/>
+    </file>
+    <file name="download.jpg" crc="3965707409" seo="true" ref="tailgate">
+      <caption webpage="tailgate" alt=""/>
+    </file>
+    <file name="ball-u1285.png" crc="525256336" ref="tailgate"/>
+    <file name="ball-u1200.png" crc="525256336" ref="tailgate"/>
+    <file name="ball-u1209.png" crc="525256336" ref="tailgate"/>
+    <file name="ball-u1229.png" crc="525256336" ref="tailgate"/>
+    <file name="ball-u1248.png" crc="525256336" ref="tailgate"/>
+    <file name="ball-u1793.png" crc="525256336" ref="contact"/>
+    <file name="ball-u1883.png" crc="525256336" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="55650026" seo="true" mt="1514269830423" redirect="true"/>
+  <file name="tailgate.html" crc="404766214" seo="true" mt="1514269797556" redirect="true"/>
+  <file name="events.html" crc="41850052" seo="true" mt="1514269797556" redirect="true"/>
+  <file name="travel.html" crc="178642739" seo="true" mt="1514269797556" redirect="true"/>
+  <file name="contact.html" crc="4105724109" seo="true" mt="1514269797556" redirect="true"/>
+  <file name="tickets.html" crc="3961842407" seo="true" mt="1514269797556" redirect="true"/>
+  <file name="tradition.html" crc="3994225612" seo="true" mt="1514269797556" redirect="true"/>
+  <file name="privacy-policy.html" crc="528934234" seo="true" mt="1514269797556" redirect="true"/>
+  <file name="about.html" crc="4141838201" seo="true" mt="1514269797556" redirect="true"/>
+</manifest>
